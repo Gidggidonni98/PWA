@@ -1,0 +1,32 @@
+{
+    "theme_color": "#7cd6f0",
+    "background_color": "#d07a85",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "index.html",
+    "name": "ReportesPWA",
+    "short_name": "rpwa",
+    "description": "Es un manifest para pwa, prueba",
+    "icons": [
+        {
+            "src": "img/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icons/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icons/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
